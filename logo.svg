@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 44" role="img" aria-label="eMerge Media">
+  <style>
+    .wm { font-family: 'Fraunces', 'Playfair Display', Georgia, serif; font-weight: 600; font-size: 32px; letter-spacing: -0.02em; fill: #0A0A0A; }
+    .dot { fill: #E4572E; }
+  </style>
+  <text x="0" y="32" class="wm">eMerge Media</text>
+  <circle cx="252" cy="30" r="4" class="dot"/>
+</svg>
